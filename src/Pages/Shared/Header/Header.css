@@ -1,0 +1,21 @@
+
+.name{
+    margin-right: 5px;
+}
+.menu a{
+
+    text-decoration: none;
+    font-weight: 500;
+    color: rgb(110, 113, 113);
+    margin-right: 20px;
+}
+.active {
+    background-color: #eed5d5;
+    /* color: yellowgreen; */
+    font-weight: bold;
+  }
+.img{
+    padding-top: 5px;
+    width: 50px;
+    height: 50px;
+}

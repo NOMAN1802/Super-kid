@@ -1,0 +1,71 @@
+[
+    {
+      "picture": "https://i.ibb.co/NKFD8LR/photo-1608889476518-738c9b1dcb40-ixlib-rb-4-0.jpg",
+      "name": "Avenger end game",
+      "price": 19.99,
+      "rating": 4.5,
+      "available_quantity": 10,
+      "detail_description": "Avenger end game  is a highly detailed toy with articulating joints and realistic accessories.Avengers: Endgame is a superhero film released in 2019 and is part of the Marvel Cinematic Universe (MCU). It serves as the culmination of the Infinity Saga, which started with Iron Man in 2008 This toy is inspired by this move charecter.",
+      "category":"Marvel",
+      "sub_category": "Avenger phase 2",
+      "seller_name": "Stan Lee" 
+    },
+    {
+        "picture": "https://i.ibb.co/N6S6hxc/photo-1608889476561-6242cfdbf622-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+        "name": "Civil War",
+        "price": 14.99,
+        "rating": 3.8,
+        "available_quantity": 2,
+        "detail_description": "Civil War features electronic lights and sounds.the Marvel Comics storyline Civil War as well as the film adaptation within the Marvel Cinematic Universe (MCU It includes a removable helmet and multiple points of articulation for dynamic poses.The main protagonists are iron man and captain america ",
+        "category":"Marvel",
+        "sub_category": "Avenger phase 1",
+        "seller_name": "Stan Lee" 
+      },
+    {
+      "picture": "https://i.ibb.co/CwRTt8Z/photo-1608889335941-32ac5f2041b9-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "name": "Dead pool",
+      "price": 24.99,
+      "rating": 4.2,
+      "available_quantity": 5,
+      "detail_description": "Deadpool is a fictional character known as the Merc with a Mouth and is a popular anti-hero in Marvel Comics. Created by writer Fabian Nicieza and artist/writer Rob Liefeld, Deadpool made his first appearance in The New Mutants.Dead pool is based on a popular movie character and comes with interchangeable weapons and a display stand. Recommended for collectors.",
+      "category": "X-men",
+      "sub_category":"Deal pool",
+      "seller_name": "Stan Lee" 
+    },
+   
+    {
+      "picture": "https://i.ibb.co/MBpgNMb/photo-1614082980086-62f20c181a57-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "name": "Jagannath",
+      "price": 29.99,
+      "rating": 4.7,
+      "available_quantity": 8,
+      "detail_description": "Jagannath is a limited edition collectible from a popular franchise. It is a anti hero super power ful character It comes with a certificate of authenticity and a custom display case. Jagannath appers both x-men and dead pool movie.Most likely this charente heated by most of the people but is very powerful & famous for it negative impression ",
+      "category": "X-men",
+      "sub_category":"X-men last stage",
+      "seller_name": "Stan Lee" 
+      
+    },
+   
+    {
+      "picture": "https://i.ibb.co/s9RBJKh/photo-1606663889134-b1dedb5ed8b7-ixlib-rb-4-0.jpg",
+      "name": "Goku",
+      "price": 39.99,
+      "rating": 4.9,
+      "available_quantity": 13,
+      "detail_description": "Goku is a premium figure crafted with high-quality materials and intricate sculpting.Goku is a Saiyan, a race of powerful warriors with incredible strength and abilities. He possesses immense fighting skills, superhuman strength, speed, and the ability to fly. .It comes with interchangeable heads and accessories.",
+      "category": "Dragon ball",
+      "sub_category": "Dragon ball super",
+      "seller_name": "Akheyo Toriama" 
+    },
+    {
+      "picture": "https://i.ibb.co/PgskJDF/photo-1606663889439-d732b9e58816-ixlib-rb-4-0.jpg",
+      "name": "Buu",
+      "price": 39.99,
+      "rating": 4.9,
+      "available_quantity": 13,
+      "detail_description": "Buu is a premium figure crafted with high-quality materials and intricate sculpting.Majin Buu, another character from the Dragon Ball series. Majin Buu is a magical being created by the evil wizard Bibidi. He appears as a large, pink, and plump creature with a childlike demeanor. It comes with interchangeable heads and accessories.",
+      "category": "Dragon ball",
+      "sub_category": "Dragon ball super-2",
+      "seller_name": "Akheyo Toriama" 
+    }
+  ]

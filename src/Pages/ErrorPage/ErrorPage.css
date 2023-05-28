@@ -1,0 +1,12 @@
+.error-page {
+    background-image: url('https://i.ibb.co/P60sD29/507f015a7efd81cec270faf9c4f1aabd.gif');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+    color: #edc4c4;
+  }
